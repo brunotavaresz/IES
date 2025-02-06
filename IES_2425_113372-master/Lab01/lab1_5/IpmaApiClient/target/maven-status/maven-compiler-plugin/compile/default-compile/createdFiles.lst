@@ -1,0 +1,5 @@
+weather/IpmaCities.class
+weather/CityForecast.class
+weather/IpmaService.class
+weather/IpmaCityForecast.class
+weather/WeatherStarter.class

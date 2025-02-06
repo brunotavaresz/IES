@@ -1,0 +1,68 @@
+{
+    "name": "Praia dos Pescadores",
+    "beachmetric": [
+        {
+            "temperature": 28.5,
+            "water_temperature": 25.0,
+            "humidity": 75.0,
+            "cloud_coverage": 30.0,
+            "uv_index": 8.5,
+            "wind": {
+                "speed": 15.5,
+                "direction": "N"
+            },
+            "precipitation": 0.0,
+            "polutant": {
+                "type": "BACTERIA",
+                "concentration": 50
+            },
+            "waveHeight": 1.5,
+            "tideHeight": 2.0,
+            "timestamp": {
+                "$date": "2024-03-13T18:30:00.123Z"
+            }
+        }
+    ],
+    "flag": "YELLOW",
+    "location": {
+        "latitude": 41.1621,
+        "longitude": -8.6862,
+	"city": "Faro"
+    },
+    "image_url": "https://cdn1.sun-hat-villas.com/media/6457/pescadores.jpg?rmode=max&quality=80&rnd=132508828962000000",
+    "description": "Praia linda no Algarve, a.k.a terra dos indianos"
+}
+{
+    "name": "Praia dos Arrifes",
+    "beachmetric": [
+        {
+            "temperature": 26.0,
+            "water_temperature": 22.5,
+            "humidity": 70.0,
+            "cloud_coverage": 15.0,
+            "uv_index": 7.5,
+            "wind": {
+                "speed": 12.0,
+                "direction": "NW"
+            },
+            "precipitation": 0.0,
+            "polutant": {
+                "type": "BACTERIA",
+                "concentration": 30
+            },
+            "waveHeight": 1.2,
+            "tideHeight": 1.8,
+            "timestamp": {
+                "$date": "2024-03-13T18:30:00.123Z"
+            }
+        }
+    ],
+    "flag": "GREEN",
+    "location": {
+        "latitude": 37.0761,
+        "longitude": -8.2768,
+	"city":"Albufeira"
+    },
+    "image_url": "https://www.albufeiraportugaltourism.com/images/praia-dos-arrifes-algarve.jpg",
+    "description": "Uma pequena e pitoresca praia cercada por formações rochosas douradas, ideal para snorkeling e mergulho"
+}

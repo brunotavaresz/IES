@@ -1,0 +1,11 @@
+Changes from Iteration-3:
+- Updated Data Struture Diagram.
+- Updated User Stories:
+    - Amended User story #1 -Lifeguard Login
+    - Amended User story #4 -Create Beach warnings
+    - Amended User story #7 -Lifeguard manegement
+    - Added User story #9 -Add beach to the system.
+    - Added User story #10 -Add Sensor to Beach
+    - Added User story #11 -Manage Beach Sensor
+    - Added User story #12 -Data error Management
+    - Added User story #13 -Beachgoer favorites 

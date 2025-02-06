@@ -1,0 +1,7 @@
+Se abrir consumidores em diferentes terminais pode haver comportamentos diferentes isto porque se estiverem no mesmo grupo (group.id) as mensagens são distribuídas por todos os consumidores,
+se estiverem em grupos diferentes cada grupo recebe todas as mensagens.
+
+Caso as mensagens sejam enviadas varios terminais producers, todos podem enviar as mensagens ao mesmo tempo para o mesmo topico e elas serao guardadas por ordem de chegada.
+
+Quanto às mesnagens antigas, os consumidores só leem mensagens enviadas após sua conexão ao tópico. As mensagens permanecem disponíveis no log enquanto nao expirarem ou
+enquanto houver espaço disponivel, caso contrario sao eliminadas.
